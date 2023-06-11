@@ -1,4 +1,4 @@
-SSR / v2ray 节点订阅
+#  ssr/v2ray/trojan 节点订阅
 
 /dist 位节点生成的目录,这个目录是给netlify应用的
 
@@ -12,4 +12,4 @@ app.js为项目的核心逻辑
 
 更新说明:
 
-支持：SS+SSR+v2Ray
+支持： ssr/v2ray/trojan 节点
